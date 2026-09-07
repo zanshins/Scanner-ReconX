@@ -1,5 +1,5 @@
-# website-admin finder
-A crawler tool to find website admin and management panels...
+# VulnParamCrawler - ReconX
+VulnParamCrawler is an advanced Admin Finder, Web Scanner, and Intelligent Crawler designed for security researchers and penetration testers. It automates the process of discovering hidden admin panels, sensitive directories, and vulnerable parameters that could be exploited in web applications...
 
 
 # Installing on termux
@@ -7,21 +7,21 @@ A crawler tool to find website admin and management panels...
 pkg install python
 pkg install git
 pip install requests
-pip install bs4
-git clone https://github.com/silent-mimi/admin-finder.git
-cd admin-finder
-python Admin-Finder.py
+pip install beautifulsoup4
+git clone https://github.com/zanshins/Scanner-ReconX.git
+cd Scanner-ReconX
+python ReconX.py
 ```
 
-telegram = @silent_mimi
-
-میمیییییییییییییییییییییییییییییییییییییییی میقاممممممممممممممممممممممم(:
-
+telegram = @zanshin_channel
+(:
 
 
 
 
-<img width="720" height="480" alt="Shot 0003" src="https://github.com/user-attachments/assets/bba12e67-9154-4703-bb48-bdf71334a57e" />
+
+<img width="720" height="480" alt="Shot 0001" src="https://github.com/user-attachments/assets/393821a9-5d94-4c84-9b86-9f2edaa117fe" />
+
 
 
 
